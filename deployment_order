@@ -50,3 +50,12 @@ name of deployment file : diff_between_revisions.zip
 0000418: Improve image insertion usability
 
 name of deployment file : issue_tracker_integration.zip
+
+16) 0000450: In Front Page, "Contribute to Sigmah" box, doesnt hav an intuitive interaction like the "Stay Informed", "Search" box just above
+
+name of deployment file : contribute_to_sigmah_box.zip
+
+17) 0000442: User personal directory not accessible for uploading files
+name of deployment file : user_personal_directory
+
+18) 
