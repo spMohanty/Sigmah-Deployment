@@ -58,4 +58,9 @@ name of deployment file : contribute_to_sigmah_box.zip
 17) 0000442: User personal directory not accessible for uploading files
 name of deployment file : user_personal_directory
 
-18) 
+18) 0000465: [General] Installation of a Mailman server (spM) 
+0000373: [General] Add discussion list management for Steering Cooperative mailing list (spM)
+ name of deployment file : mailman_archives.zip
+
+19) 0000470: [General] Connect and share with Facebook (spM) - assigned.
+name of deployment file : fbConnect.zip
